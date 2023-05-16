@@ -4,7 +4,7 @@ version: 2.0.0
 homepage: https://github.com/kzjn10/Flutter_SignatureWidget/tree/master/flutter_signature_view
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter:
